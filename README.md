@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ronnie De Jesus
-- 👀 I’m interested in Java Programming 
-- 🌱 I’m currently learning Java and Python
+- 👋 Hi, I’m Ronnie Cutamora
+- I have basic knowledge in Database (SQL, MS ACCESS), Event Driven Programming (Vb.net), and CSS, HTML, and JavaScript
+- 🌱 I’m currently learning Java, Python, and Arduino
 - 📫 How to reach me r0nniecutamora@yahoo.com
 
 <!---
